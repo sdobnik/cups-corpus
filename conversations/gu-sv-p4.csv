@@ -1,0 +1,75 @@
+P04	1	1	hej det finns en töd mugg till vänster om dig
+P04	1	2	röd
+P04	2	3	Ja, jag har en röd mugg med lite rött på handtaget på min sida av bordet och lite till vänster
+P04	1	4	ja ok
+P04	2	5	Det finns två röda muggar till vänster om dig. Den ena står bakom den andra.
+P04	1	6	framför mig står det, från vänster, en likadan röd mugg, en blå, en vit och en röd. Den röda som du säger står bakom ser jag inte
+P04	1	7	framför katie står det, från vänster, en röd, en blå och en gul mugg
+P04	2	8	Så du kan se 3 röda muggar, jag kan se 3 röda muggar. Men två av dessa är inte samma, så det ska alltså finnas 4 röda muggar sammanlagt.
+P04	1	9	ja det bör stämma
+P04	1	10	jag ser totalt 3 blåa muggar
+P04	2	11	Ska vi försöka markera de röda muggarna som vi inte kan se först på pappret?
+P04	1	12	ok. Jag ser faktiskt en till röd sak i mitten, men handtaget är kanske vänt bort från mig. Om det är en mugg har vi alltså 5 röda muggar. Den står typ innanför den gula muggen på sidan till vänster om mig.
+P04	2	13	Står den i mitten av bordet, och inte bakom den röda muggen närmast dig på vänster sida?
+P04	1	14	den står ganska nära mitten.
+P04	2	15	OK. Jag har markerat den. Ser den ut som en mugg förutom att du inte kan se handtaget?
+P04	1	16	ja
+P04	2	17	OK. 
+P04	2	18	Jag kan se en röd mugg som står nästan exakt bakom den röda muggen närmast dig till vänster. Den står emellan den röda muggen på din vänstra sida och den gula muggen som står lite längre bort på din vänstra sida.
+P04	1	19	den röda muggen ser inte jag
+P04	1	20	så då har vi 5 röda muggar?
+P04	2	21	Ja, det borde stämma. 
+P04	1	22	ok vilken färg tar vi nu?
+P04	2	23	Blå kanske?
+P04	1	24	ok
+P04	1	25	jag ser tre blåa
+P04	2	26	Jag kan också se 3 blå muggar. Den ena är framför dig, till höger om den röda på din vänstra sida.
+P04	1	27	en framför mig, en framför Katie och en lite snett till höger från ditt håll sett framför dig.
+P04	2	28	Det stämmer med min bild också.
+P04	1	29	ok det stämmer
+P04	2	30	Så då ska det inte finnas några blå muggar förutom de 3
+P04	1	31	då kanske vi har alla blåa?
+P04	2	32	Jag tror det! Gul nästa?
+P04	1	33	ok
+P04	2	34	Jag kan se 2 st gula muggar.
+P04	1	35	en gul i mitten på min vänstra sida och en på Katies sida, till höger
+P04	1	36	ja två st
+P04	2	37	Det är nog samma som de jag ser.
+P04	2	38	Så de gula är nog också samma för oss båda.
+P04	1	39	ok, vita muggar då? Jag ser två olika typer
+P04	2	40	Vi kan ju ta de vita med handtag och utan lock först kanske? 
+P04	1	41	ok
+P04	1	42	jag ser en framför mig, två ungefär i mitten och en till höger om dig
+P04	2	43	Jag kan se en framför dig, en till höger om mig, två ungefär i mitten och en framför Katie mellan den blå och den gula.
+P04	1	44	den framför Katie kan jag inte se
+P04	2	45	Då kan du markera den och så tar vi vita med lock?
+P04	1	46	mellan den blå och gula, framför Katie, ser jag en mugg med lock och utan handtag
+P04	2	47	Står den lite längre bort från Katie (lite mer mot mitten) än den gula och den blå?
+P04	1	48	lite mot mitten inte exakt mellan den blåa och gula
+P04	2	49	OK, den muggen kan jag se.
+P04	1	50	med lock?
+P04	2	51	Ja. Och jag kan också se en till vit mugg med lock.
+P04	2	52	Den står framför mig, mellan den röda som står till vänster om mig och den vita med handtag som står till höger om mig. Fast lite längre mot mitten.
+P04	1	53	ja den andra vita med lock står framför mig, närmare mitten än de som har handtag
+P04	2	54	Oj!
+P04	2	55	Då kanske det finns 3 vita med lock
+P04	1	56	Oj, nej, jag ser ingen lockmugg framför dig
+P04	1	57	det måste finnas 3
+P04	2	58	Fick du markerat vart den vita med lock framför mig står?
+P04	1	59	ja, bredvid den vita fast lite längre in?
+P04	2	60	Precis. Kan du förklara var den vita med lock på din sida står igen?
+P04	1	61	den står inåt mitten mellan den vita och blåa, kanske lite närmare den vita
+P04	1	62	har vi alla nu?
+P04	2	63	OK. Det skulle finnas 5 röda muggar kom vi ju fram till, men jag har bara markerat 1 och har 3 på bilden. Så jag saknar en.
+P04	2	64	Hur är raden framför dig?
+P04	1	65	jag har en röd längst till vänster och en röd längst till höger
+P04	2	66	OK, jag saknar den som är på din högra sida. Så den står på din sida, längst till höger - i hörnet?
+P04	1	67	ja längst till höger i hörnet
+P04	2	68	Kan du se några objekt som inte är muggar?
+P04	1	69	nej
+P04	2	70	OK.
+P04	2	71	Så det finns alltså (inkl. de som markerats på pappret): 5 röda, 3 blå, 2 gula, 5 vita med handtag och 3 vita med lock?
+P04	1	72	ja
+P04	2	73	Då tror jag att vi har alla!
+P04	1	74	bra jobbat!
+P04	2	75	Teamwork!

@@ -1,0 +1,441 @@
+P02	1	1	So how many cups do you see? And what colours are they?
+P02	2	2	i'm going to break it down into different colours
+P02	2	3	i see 2 yellow cups
+P02	2	4	3 red
+P02	2	5	3 blue
+P02	1	6	I see 6 white, 4 red, 3 blue, and 2 yellow.
+P02	2	7	7 white - 2 of which are like takeaway coffee mugs and 2 are like the other coloured ones with handles
+P02	1	8	Yeah, I have those styrofoam cups too. They are only white. Of the six white cups, 2 are those takeaway ones.
+P02	1	9	So maybe we could possibly go row by row, do you think? And say which cups are there? Or how should we work out where your unique cups are and vice versa?
+P02	2	10	yeh. i think all the coloured cups i can see have handles. but there is one red one at the far end that isn't 100% clear
+P02	2	11	yeh let's do that, row by row sounds good
+P02	1	12	Yes, me too. All the coloured ones have handles except one red one in the middle (I can't see the handle because it is turned from me).
+P02	1	13	Ok.
+P02	1	14	On my first row. I have from the left (your right): one red, handle turned to you but I can see it. A blue cup next. Handle turned to my right. A white with handle turned to right. Then a red with handle turned to my left.
+P02	2	15	first row = row nearest you?
+P02	1	16	Yes.
+P02	2	17	ok then i think we found a cup of yours that i can't see: the red with the handle to your left (the last one you mention)
+P02	1	18	Okay, that would make sense. Maybe it is blocked by the other cups in front or something?
+P02	2	19	yeh, i have a blue one and a white one, either of which could be blocking it
+P02	1	20	Yes, I think I see those.
+P02	1	21	It looks almost like a diagonal line to me. From a red cup really close to you on your left, then a white, then the blue, then this missing red.
+P02	2	22	blue with the handle to my left and white with the handle to my rigth/towards me a bit
+P02	2	23	ok cool
+P02	2	24	so the red one is quite close to the edge of the table?
+P02	1	25	Yes very
+P02	1	26	You know this white one you just mentioned. Is it a takeaway cup?
+P02	1	27	Because I think I know which cup that is but I don't see the handle.
+P02	2	28	no, i was referring to the white handled cup to the right of the blue cup in the second row from you. its handle faces... south east from my perspective
+P02	2	29	the second row of cups from your end
+P02	1	30	Yes, I understand now!
+P02	1	31	Gotcha
+P02	1	32	Shall we take my next row? Which is actually just a styrofoam cup. It's kinda marooned between the two rows.
+P02	2	33	ok, one sec, i'll draw on the missing red cup on the edge of the table
+P02	1	34	Np
+P02	1	35	Frankie
+P02	2	36	which way is its handle facing exactly?
+P02	1	37	The red cup handle faces to my left, your right.
+P02	2	38	parallel to the edge of the table where you
+P02	2	39	*you're standing
+P02	1	40	Yes
+P02	1	41	If the table has four corners, this is very close to the corner on my right.
+P02	2	42	ok, i drew it. it looks like a tea pot
+P02	1	43	Hahaha, okay.
+P02	2	44	ok, so your next row
+P02	2	45	you said there's a takeaway cup somewhere marooned all alone
+P02	1	46	Okay. So we have that row I described with the now found red cup. Then a takeaway cup that is between that row and the next. It's very much in the middle of the two rows.
+P02	2	47	ok
+P02	2	48	i have an idea
+P02	1	49	Like if we cut the table in half, straight down the middle...the cup would drop to the floor.
+P02	1	50	Ok.
+P02	2	51	perhaps we can mark each of the corners of the table with a letter, and use them like coordinates
+P02	2	52	or is that cheating?
+P02	1	53	I don't think it's cheating if we're not talking.
+P02	1	54	I think!
+P02	2	55	should we ask?
+P02	1	56	I would just do it haha.
+P02	1	57	You mean like making coordinates?
+P02	2	58	ok let's ;)
+P02	2	59	yeh
+P02	1	60	Okay, we can try.
+P02	2	61	ok, let's say: that corner with the newly found red cup = A
+P02	1	62	okay
+P02	1	63	B on the other corner on my left, your right?
+P02	2	64	we probably need some middle points
+P02	1	65	Okay.
+P02	2	66	if we have A B C evenly across the top, and 1 2 3 down the sides, would that work?
+P02	1	67	We could divide it in to four parts or something. The line from that cup.
+P02	1	68	Sure
+P02	2	69	4 would make more sense, yeh
+P02	1	70	By top, you mean from A?
+P02	2	71	yeh
+P02	1	72	A line nearest me
+P02	1	73	Okay
+P02	1	74	We can do 4
+P02	1	75	We should have somewhat equal division
+P02	1	76	If you get me
+P02	2	77	yeh
+P02	1	78	Which is the side to start with the numbers?
+P02	1	79	From A going away from me towards you?
+P02	2	80	i suppose that B is very close to the handle of the white cup in your first row?
+P02	1	81	Yes
+P02	1	82	B is very close to a white cup with the handle pointed towards that brown-jacketed lady
+P02	1	83	Who enjoys staring
+P02	2	84	and C on the non-handled end of the blue cup on the same row?
+P02	1	85	Indeed
+P02	1	86	Perfecto
+P02	2	87	ok
+P02	2	88	"so yeh, let's do number on ""Katie's"" edge of the table"
+P02	1	89	This feels like we are going to sink a battleship
+P02	1	90	Okay
+P02	1	91	So 1 nearest the A?
+P02	1	92	Just to confirm
+P02	2	93	yeh, in teh same spot?
+P02	1	94	Okay
+P02	2	95	i've forgotten how coordinates work haha
+P02	1	96	I think we just make our own coordinates ahaha
+P02	1	97	It will be fine
+P02	2	98	ok, so A & 1 share that corner
+P02	1	99	Okay
+P02	1	100	I'm putting 4 right at the other end.
+P02	2	101	and 4 at the other end
+P02	2	102	snap
+P02	1	103	Again in a straight line
+P02	1	104	Yes
+P02	2	105	so, 2 could be in line with a can you see a blue cup, that is behind the A1 red cup?
+P02	2	106	lol thatÃ¤s not a sentence
+P02	1	107	lmao
+P02	2	108	"just take it from ""can you.."""
+P02	1	109	just wait
+P02	1	110	Yes. For me the blue cup is in front of the red cup. But yes.
+P02	1	111	It has a handle that perhaps you can't see.
+P02	1	112	Since it is pointing south east for me.
+P02	2	113	"what do you mean by ""in front of"""
+P02	1	114	Hmm
+P02	2	115	closer to me or closer to you?
+P02	1	116	Closer to you
+P02	2	117	ok yep
+P02	1	118	Okay
+P02	2	119	i cna just see the handle almost pointing to A1
+P02	1	120	Ah yes
+P02	2	121	anyway, 2 in line with that cup?
+P02	1	122	My 2 is not, no
+P02	1	123	It's like
+P02	1	124	Closer to 3
+P02	1	125	I guess because the perspective of this table going away from us...the edges...are like diagonal. So it's harder to do exact numbers like we did the letters on the straight line if you get me?
+P02	1	126	Also the print out
+P02	2	127	yeh
+P02	1	128	The perspective
+P02	1	129	Is different
+P02	1	130	From the computer screen
+P02	1	131	Like the table seems more...angular on the print out
+P02	1	132	At least to me
+P02	2	133	yeh that's true
+P02	1	134	Anyway, I can put my 2 near that blue cup
+P02	2	135	"it's like it's being sucked into a vortex that is by ""katie's"" knee, from my perspective"
+P02	1	136	ahahaha
+P02	1	137	Poor Katie
+P02	1	138	Katie
+P02	1	139	I have just done the 2
+P02	1	140	By the blue cup
+P02	2	141	ok
+P02	2	142	and the 3, mine falls sort of between a white handled and a yellow cup
+P02	2	143	can you see a yellow cup, closest to me, handle facing my left
+P02	1	144	Hmm, if I put my 3 there, there's like no room for the 4.
+P02	1	145	Yes, I see that cup
+P02	2	146	so you see that yellow cup to be right on teh corner?
+P02	1	147	Yes
+P02	1	148	A yellow cup, on my right your left, with the handle facing east to me, west to you.
+P02	2	149	ok, from my perspective, there is at least a cup-sized gap between the edge of the table and the yellow cup
+P02	1	150	Yes, I can say that too
+P02	2	151	ok
+P02	2	152	i put the 3 on the you side of that yellow cup
+P02	1	153	Okay
+P02	2	154	ok, let's see if that gets us anywhere
+P02	1	155	Where is the 4?
+P02	1	156	Never mind!
+P02	1	157	Okay
+P02	1	158	So
+P02	2	159	ok i drew some lines to match up the coordinates to the other sides of the table
+P02	2	160	though they are a bit tough to get right, with the odd table perspective
+P02	1	161	It's kinda hard to concentrate
+P02	1	162	With the semantics discussion
+P02	2	163	yes
+P02	1	164	Okay anyway
+P02	1	165	So how should we proceed to figure out which other cups we both have that the other doesn't?
+P02	2	166	ok, let's see
+P02	2	167	you had 4 red and i had 3, so we found the missing red one
+P02	1	168	Okay
+P02	1	169	And there was a white cup discrepancy?
+P02	1	170	I never wrote down your cups, which was clever
+P02	1	171	I can scroll probably
+P02	2	172	think so, i have 1 more white than you
+P02	2	173	hah yeh me neither
+P02	2	174	i just realised what i wrote about the white cups makes no sense
+P02	2	175	i'll rewrite my stats
+P02	2	176	RED: 3 handles + 1 newly found
+P02	2	177	BLUE: 3 handles
+P02	2	178	YELLOW: 2 handles
+P02	2	179	WHITE: 5 handles + 2 takeway
+P02	1	180	okay
+P02	2	181	i'm so distracted
+P02	1	182	I know
+P02	1	183	It's a very interesting conversation ahaha
+P02	1	184	"Right, we still have cups...""Frankie"""
+P02	2	185	yes
+P02	2	186	back to cups
+P02	2	187	what are your cup stats?
+P02	1	188	I have 4 red. This matches you now. I have 3 blue. Same as you. I have 4 white and 2 takeaway cups (we have a problem, Houston). And 2 yellow. Again, same as you.
+P02	2	189	btw i have 15 total cups originally
+P02	2	190	ok so we just have white left then
+P02	1	191	I have 15 originally too
+P02	1	192	Interesting
+P02	2	193	2 takeaways are fine then
+P02	2	194	so we're just one handled white
+P02	1	195	Right
+P02	1	196	So moving to my next row
+P02	2	197	*on
+P02	2	198	man i cannot type
+P02	1	199	Past that other white marooned takeaway
+P02	2	200	i'm a bit confused about your marooned takeaway
+P02	2	201	what are its coordinates
+P02	2	202	coordinates haha
+P02	1	203	It would be B2 I guess
+P02	1	204	But maybe just missing 2
+P02	2	205	i see a white cup roughly there, but it's handled
+P02	1	206	Near but not actually 2
+P02	1	207	Yeah, there is a white cup near it
+P02	1	208	But the white cup with the handle facing my west, your east...is like...a bit to the right of the takeaway.
+P02	2	209	hmm
+P02	2	210	i'm confused
+P02	1	211	yes
+P02	1	212	Well
+P02	1	213	There is a white cup on the first row. Like B1.
+P02	2	214	yeh
+P02	1	215	And the takeaway is just in front of that.
+P02	2	216	very near your crotch
+P02	1	217	Ahahaha
+P02	1	218	I can't see that
+P02	1	219	But probably
+P02	2	220	i don't think i can see that takeaway cup
+P02	1	221	So we have white crotch cup. Takeaway. Then closer to you, on my right, your left...is another handled white cup.
+P02	1	222	I see.
+P02	2	223	white crotch up has a handle
+P02	1	224	Wtf
+P02	2	225	cup*
+P02	1	226	Oh yeah
+P02	1	227	The crotch cup does
+P02	2	228	ok
+P02	1	229	The handle faces to the east, your west
+P02	2	230	yes
+P02	1	231	okay
+P02	2	232	so then on the edge of B1/2, i have another white handled cup
+P02	2	233	is the marooned takeaway cup between these two?
+P02	1	234	Yes
+P02	2	235	ok
+P02	2	236	closer to line B or line C?
+P02	1	237	Closer to B. But almost halfway between C and B.
+P02	2	238	ok
+P02	2	239	i'ma draw it
+P02	2	240	ok done
+P02	1	241	Okay
+P02	2	242	ok next row?
+P02	1	243	Yes
+P02	1	244	So. From say D almost 3. We have a yellow cup.
+P02	1	245	The handle faces to your west.
+P02	2	246	yeh
+P02	1	247	Then we have a red cup. C2/3
+P02	2	248	hmm
+P02	1	249	I see no handle on it
+P02	1	250	The handle must be facing you
+P02	1	251	You should see it. There is nothing blocking it.
+P02	2	252	i have a blue cup around that spot, but no red
+P02	1	253	There is a blue cup just in front of it. Like...behind it for you I guess.
+P02	2	254	can you see a blue cup there, handle facing my west
+P02	1	255	Yes
+P02	2	256	ah, it must be blocking it
+P02	1	257	It's just in front
+P02	2	258	just to be sure, on the side of the yellow cup we just mentioned that is closer to you, do you have 2 red cups between it and you?
+P02	2	259	weird sentence
+P02	1	260	Let me digest it
+P02	1	261	Okay
+P02	1	262	By the red cup
+P02	1	263	On the right
+P02	1	264	Is that mysterious red cup you can't see
+P02	1	265	But the only red cup around that area
+P02	1	266	Is a cup near D1
+P02	1	267	On the first row
+P02	2	268	so in that general end of the table, can you see 2 or 3 red cups?
+P02	1	269	"Sorry. ""By the red cup"" after ""Okay"" should be ""By the yellow cup"""
+P02	1	270	Near my end of the table?
+P02	2	271	in the general C D side of the table
+P02	2	272	that half
+P02	2	273	cutting the table down the middle of B & C
+P02	1	274	There's like one red cup realllly close to me. Really close to D. And then the only red cup on the C and D rows...other than that really close one...is that mysterious red cup.
+P02	2	275	ok then i can see it
+P02	2	276	but to me, it looks like it is closer to you than the yellow cup
+P02	1	277	It is slightly closer
+P02	1	278	But from my perspective. Only very slightly.
+P02	2	279	because i can see the yellow cup's handle and it's closer to me tha the red one
+P02	2	280	ok then we're not missing a red cup there, it's just a wonky table
+P02	1	281	It does look like it might capsize
+P02	1	282	Katie is judging us
+P02	2	283	hahaha
+P02	1	284	Okay, I can continue from that red cup.
+P02	1	285	The mysterious one.
+P02	2	286	ok
+P02	1	287	Okay, so we have a white cup. The one that comes after that mysterious takeaway one you can't see.
+P02	1	288	It has a handle
+P02	1	289	The handle faces to your east
+P02	2	290	yep got it
+P02	1	291	Then we have a blue cup
+P02	1	292	I doubt you can see the handle
+P02	1	293	It faces my south east
+P02	2	294	i can just see a bit of the handle
+P02	1	295	It's near to 2
+P02	2	296	NW
+P02	1	297	Okay
+P02	2	298	ok, that's it for that row?
+P02	1	299	Yes
+P02	2	300	ok
+P02	1	301	Next we have 3 cups
+P02	1	302	A blue cup C3 let's say.
+P02	2	303	yeh
+P02	1	304	A white cup. B3.
+P02	2	305	handle my W
+P02	1	306	Yes
+P02	2	307	both the blue and white have W handles
+P02	1	308	Correct
+P02	2	309	ok
+P02	1	310	Then lastly
+P02	1	311	A takeaway cup
+P02	2	312	yeh, ok
+P02	2	313	i also see another white handled cup that is sort of in that line
+P02	2	314	but a bit closer to me
+P02	1	315	Hmm
+P02	2	316	on teh A end, like A3ish
+P02	1	317	Don't see it
+P02	2	318	it could be obscured by the red at A1
+P02	1	319	I have that yellow cup really close to you on your right. A4.
+P02	1	320	Then the white takeaway.
+P02	1	321	Then the blue. A2.
+P02	2	322	i don't see a yellow at A4
+P02	2	323	is that the yellow we were referring to before?
+P02	1	324	Okay. Is there any yellow cup that is on your left?
+P02	2	325	crap yes i misread
+P02	1	326	Oh np
+P02	1	327	It's a lot of text
+P02	2	328	yes, there a yellow at A1
+P02	1	329	Okay
+P02	2	330	A4!
+P02	1	331	Where the hell were we?
+P02	1	332	I just talked about that white takeaway I think
+P02	2	333	ok in front of the yellow A4 cup, which has a my west handle, i have a my west handled white cup too
+P02	1	334	Oh...I don't see that
+P02	1	335	Perhaps the yellow cup blocks it
+P02	2	336	it is closer to you then the yellow one
+P02	1	337	Hmm
+P02	1	338	I mean
+P02	1	339	In front of the yellow
+P02	2	340	it is slightly closer to the A edge of the table
+P02	1	341	In front for you I mean
+P02	1	342	Would be the takeaway
+P02	1	343	White
+P02	2	344	i see the takeaway cup NE to the yellow cup
+P02	1	345	Your NE?
+P02	2	346	and the mystery white is NW
+P02	2	347	yes
+P02	1	348	I am having some compass problems
+P02	2	349	ok
+P02	1	350	Your NE is my...SW?
+P02	2	351	the mystery white yes
+P02	2	352	dammit
+P02	1	353	So many mysteries
+P02	1	354	Feel like I am in a fucking Scooby Doo episode
+P02	2	355	i keep forgetting there's not ctr-A
+P02	2	356	hahah
+P02	2	357	omg i cannot type
+P02	2	358	ok ok
+P02	1	359	ahahaha
+P02	1	360	So what are we doing about this mysterious white?
+P02	1	361	Because we didn't need any more whites, I thought?
+P02	1	362	Or we did
+P02	1	363	Did we?
+P02	2	364	yes, my NE is your SW - that's where the takeaway is from the yellow
+P02	1	365	Yes, that is correct
+P02	2	366	and the mystery white is like one cup my west awa from that
+P02	2	367	closer to the edge of the table
+P02	2	368	i believe we needed to find you a white cup
+P02	1	369	Okay
+P02	1	370	So
+P02	1	371	This is it?
+P02	1	372	I see 6 white cups
+P02	2	373	with handles?
+P02	2	374	or total
+P02	2	375	total, wsn't it
+P02	1	376	4 with handÃ¶es
+P02	1	377	handles
+P02	1	378	2 takeaway
+P02	2	379	yeh so i think this might be the last one
+P02	1	380	Okay
+P02	2	381	because i see 5 with handles
+P02	1	382	So it is in front of the takeaway cup that could be described as being at B3
+P02	2	383	no
+P02	1	384	aaaaaa
+P02	2	385	it's closer to me than the takeaway cup
+P02	2	386	but closer to you than the yellow one
+P02	1	387	Okay
+P02	1	388	Got it
+P02	2	389	ok
+P02	2	390	my west facing handle
+P02	2	391	right by the edge of the table
+P02	2	392	make sense?
+P02	1	393	what are we talking about?
+P02	1	394	the white cup?
+P02	2	395	yes
+P02	1	396	the handle direction
+P02	2	397	your missing white ucp
+P02	2	398	cup
+P02	2	399	my west, your east
+P02	1	400	which way does its handle face?
+P02	2	401	it faces katie
+P02	1	402	my east
+P02	1	403	gotcha
+P02	2	404	so. final count?
+P02	1	405	4 red. 3 blue. 5 white with handles, 2 takeaway. 2 yellow.
+P02	2	406	4 red, 3 blue, 3 takeaways and 5 whites
+P02	2	407	OH
+P02	2	408	we have a bonus takeaway
+P02	1	409	Yes
+P02	1	410	Maybe that one near me
+P02	2	411	i see one in B4
+P02	2	412	no, i counted that
+P02	1	413	right...
+P02	2	414	like, basically in the middle of the table, but close to me
+P02	1	415	It's near what exactly?
+P02	1	416	Is it by that red?
+P02	2	417	near a red my east facing
+P02	2	418	handle
+P02	1	419	The only white takeaway in that vicinity would be at B3.
+P02	2	420	on its other side is a white my west facing (which is in D4)
+P02	1	421	My B3 at least.
+P02	1	422	The one that blocks that white handled one for me.
+P02	1	423	There is a white at D4, yes.
+P02	2	424	is that one closer to you than the red?
+P02	2	425	your takeaway
+P02	1	426	The white takeaway at B3 is closer to me than the red, yes.
+P02	2	427	okthen i think there is another one
+P02	2	428	that i can see
+P02	1	429	I am just trying to work out what cup is blocking it.
+P02	1	430	It's like...how.
+P02	2	431	can you see a white, west facing handled, basically right in teh centre of the table?
+P02	1	432	Yes
+P02	2	433	it's my south east of that
+P02	2	434	your NW
+P02	1	435	Okay
+P02	2	436	got it?
+P02	1	437	Yup
+P02	2	438	then we have, 3 takeaways, 5 whites, 4 red, 3 blues and 2 yellows
+P02	1	439	Yes
+P02	2	440	done and done
+P02	2	441	+

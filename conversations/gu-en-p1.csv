@@ -1,0 +1,157 @@
+P01	2	1	hej
+P01	1	2	hej
+P01	2	3	fÃ¶rst och frÃ¤mst...
+P01	2	4	first of all
+P01	2	5	i see lots of cups and containers on the table
+P01	1	6	me too
+P01	2	7	some white, some red, some yellow, some blue
+P01	1	8	I see six white ones
+P01	1	9	me too
+P01	2	10	i see seven
+P01	2	11	but maybe we should move in one direction...
+P01	1	12	ok, lets do that
+P01	1	13	shall we take it from katies point of view?
+P01	2	14	ok
+P01	1	15	to her left there is a red mug
+P01	1	16	do you have that too?
+P01	2	17	closest to katie from her right, i see a yellow mug, white mug, and to the most left a blue mug
+P01	2	18	so no, i can't see tht red one
+P01	2	19	hit!
+P01	1	20	from her right I see yell, white, blue red
+P01	1	21	and the white has a funny thing around the top
+P01	2	22	then you probably miss the white i see
+P01	1	23	and is between yel and bl but furhter away from katie
+P01	2	24	because i see a normal mug too, right next to the yellow one, on the left
+P01	1	25	ok, is your white one closer to katie than the yellow and blue?
+P01	2	26	yes
+P01	2	27	closest to me, from right to left:
+P01	1	28	ok, got it
+P01	2	29	white mug, white thing with funny top, red mug, yellow mug (the same as katies)
+P01	1	30	ok, I don't have white with funny top there
+P01	2	31	its between the white and red, a little further in on the table
+P01	1	32	ok
+P01	1	33	I see white, rather big empty space (probably where you see funny top, red, yellow (same as katies)
+P01	2	34	ok, so there it is.
+P01	1	35	closest to me, from left to right red, blue , white, red
+P01	2	36	ok, on your side i only see red, blue, white
+P01	2	37	so the red one is missing
+P01	2	38	is it the same one, that i marked from katies perspective?
+P01	1	39	it is on katies left
+P01	2	40	ok, so i have marked it already
+P01	1	41	yes that's it
+P01	2	42	there is an empty space on the table on the second row away from you
+P01	2	43	between the red and white mug (from left to right)
+P01	1	44	I have one thing there, a white funny top
+P01	2	45	ok, i'll mark it.
+P01	1	46	and the red one is slightly close to you
+P01	1	47	is that right?
+P01	1	48	to my left from that red mug there is a yellow mug
+P01	2	49	hm...
+P01	2	50	can't see that and now i'm confused
+P01	2	51	describe the second row away from you like you see it
+P01	1	52	only one thing there, a white funny top
+P01	2	53	"aha, so it's closer to you than those i call ""the second row"""
+P01	1	54	behind that, there is a yellow, red, white and blue
+P01	1	55	from my left to right
+P01	1	56	yes, that must be it!
+P01	1	57	"so what do you see in the ""second row"" from my perspective?"
+P01	2	58	"i see a red, then space, then white and blue (same as katie's"")"
+P01	2	59	no yellow
+P01	2	60	is it on the edge of the table?
+P01	2	61	on your left
+P01	1	62	ok, yes!
+P01	1	63	quite far behind the red one closest to me on my left
+P01	2	64	ok, so i see that one
+P01	1	65	"on the ""second row"" from you I se a blue"
+P01	1	66	and a whithe
+P01	1	67	and a white funny top (same as katies)
+P01	2	68	those are all visible for me too
+P01	1	69	so now I have 17 including the ones I've marked, how many do you have?
+P01	2	70	me too
+P01	2	71	so we found them all?
+P01	1	72	then we should be done?
+P01	2	73	i only had two missing
+P01	1	74	me too.
+P01	2	75	ok, makes sense
+P01	1	76	ive got 4 red
+P01	2	77	i've got three
+P01	2	78	no, for with the one i marked!
+P01	1	79	you have 4 too?
+P01	2	80	yes
+P01	1	81	ok. Ive got three blue
+P01	2	82	me too
+P01	1	83	2 yellowÂ¨Â¨
+P01	2	84	yes
+P01	1	85	4 white
+P01	2	86	i have five
+P01	1	87	3 white funny tops
+P01	1	88	ok, so Ive got one white missing...
+P01	2	89	and just two funny tops
+P01	2	90	so i miss a funny top, and you miss a white mugÂ¨Â¨
+P01	2	91	no, i have the third one
+P01	2	92	i marked it before
+P01	1	93	ok, where are your white ones?
+P01	2	94	i think you might miss the one in the middle
+P01	2	95	"from katie's perspective it's behind the white with ""funny top"
+P01	2	96	in the middle of the table, a little closer to me than you
+P01	1	97	I think I have that
+P01	2	98	ok
+P01	1	99	oh, I just realised, I have 5 white, including one I marked on Katies right
+P01	2	100	so then again, it looks like we see everything we can
+P01	1	101	yes, you still just got 17?
+P01	2	102	yes
+P01	1	103	hm
+P01	1	104	ok, so say how many of each you see
+P01	2	105	4 red
+P01	1	106	same
+P01	2	107	2 yellow
+P01	1	108	same
+P01	2	109	3 blue
+P01	1	110	same
+P01	2	111	5 white
+P01	1	112	same
+P01	2	113	3 white with funny tops
+P01	1	114	same
+P01	1	115	my red ones are two in my first row (one of them close to katie)
+P01	2	116	i mean there is a chance we both see a white that the other one is missing..
+P01	1	117	one just next to your left hand
+P01	2	118	yes
+P01	1	119	and one on the third row from you slightly to your right
+P01	2	120	is it directly behind the red mug on your left?
+P01	1	121	no, much closer to you
+P01	1	122	and mor towards the middle
+P01	2	123	ok, so i see a red mug directly behind the red one on your left
+P01	2	124	"probably next to the white with ""funny top"" that i cant see"
+P01	1	125	it is just behind that and to my left/your right
+P01	1	126	behind from my perspective
+P01	2	127	and the red i can't see is it to the left of the yellow?
+P01	1	128	yes, as you se it its left
+P01	2	129	ok, i mark it, and you mark the other red
+P01	1	130	yup
+P01	1	131	and the blue ones are one on the second row from you, to the right from you
+P01	1	132	one slightly to my left
+P01	1	133	and one in front of katie in the first row
+P01	2	134	yes, that's the same
+P01	1	135	and the yellow are on between us to your far right
+P01	1	136	and one quite close to the corner on your left and katies right?
+P01	2	137	yes the same
+P01	2	138	the three funny tops i think we have under control
+P01	2	139	you want me to do the white ones?
+P01	1	140	ok
+P01	2	141	one close to me on the right
+P01	1	142	yes
+P01	2	143	one in the center of the table
+P01	1	144	yes
+P01	2	145	on second from left near katie
+P01	2	146	one directly in from of you
+P01	1	147	no, I have the second from right near katie
+P01	2	148	and one directly behind that one (from your perspective)
+P01	2	149	ssorry my misstake with katie
+P01	2	150	second from right it is
+P01	2	151	one in front of you?
+P01	1	152	so I see three white in the middle of the table one close to me, one in the middle of the table and one on your halv of the table, almost in a line
+P01	1	153	well, almost5
+P01	2	154	yes
+P01	1	155	yes one in front of me
+P01	1	156	so we should be done now?
+P01	2	157	i hope so! :)
